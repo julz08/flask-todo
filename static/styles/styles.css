@@ -1,0 +1,48 @@
+.setup{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(90, 111, 160);
+    background-color: rgb(244, 231, 188);
+    border-radius: 25px;
+    font-family: Prompt, sans-serif;
+    display: inline-block;
+}
+#title{
+    color: rgb(90, 111, 160);
+    font-weight: bold;
+    font-size: 45px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(241, 231, 188);
+    border-radius: 25px;
+    display: inline-block;
+}
+#form{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+#todo{
+    font-size: 45px;
+    background-color: rgb(241, 231, 188);
+    border-width: 0cap;
+    font-family: Prompt, sans-serif;
+    color: rgb(109, 99, 88);
+    width: 700px;
+}
+#add{
+    font-size: 40px;
+    font-family: Prompt, sans-serif;
+    font-weight: bold;
+    color: rgb(90, 111, 160);
+    background-color: rgb(255, 249, 226);
+    border-radius: 10px;
+    border-color: rgb(37, 73, 173);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
