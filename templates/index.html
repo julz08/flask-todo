@@ -17,5 +17,10 @@
         <button id="add" type="submit"> add </button>
         </form>
     </div>
+    <div>
+        {% for todo in todos %}
+        <h1 class="setup" id="items">{{todo["todo"]}}</h1>
+        {% endfor %}
+    </div>
 </body>
 </html>
